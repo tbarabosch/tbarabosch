@@ -26,26 +26,11 @@ My work spans systems security, reverse engineering, threat intelligence, incide
 
 ## Languages and systems
 
-<p align="center">
-  <a href="https://github.com/tbarabosch/macos-re"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"></a>
-  <a href="https://github.com/tbarabosch/1001-injects"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black"></a>
-  <a href="https://github.com/tbarabosch/macos-re"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"></a>
-  <a href="https://github.com/tbarabosch/1001-injects"><img alt="x86/x64 assembly" src="https://img.shields.io/badge/x86%2Fx64_assembly-0071C5?style=flat-square&amp;logo=intel&amp;logoColor=white"></a>
-  <a href="https://github.com/tbarabosch/macos-re"><img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white"></a>
-  <img alt="Delphi" src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&amp;logo=delphi&amp;logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
-  <a href="https://github.com/tbarabosch/yaipl"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&amp;logo=ocaml&amp;logoColor=white"></a>
-  <a href="https://tbarabosch.com/prolog-is-dead-long-live-prolog/"><img alt="Prolog" src="https://img.shields.io/badge/Prolog-74283C?style=flat-square"></a>
-  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&amp;logo=haskell&amp;logoColor=white">
-  <a href="https://github.com/fkie-cad/cwe_checker/pull/15"><img alt="Lisp" src="https://img.shields.io/badge/Lisp-000000?style=flat-square&amp;logo=commonlisp&amp;logoColor=white"></a>
-  <a href="https://github.com/tbarabosch/apihash_to_yara"><img alt="YARA" src="https://img.shields.io/badge/YARA-394EFF?style=flat-square&amp;logo=virustotal&amp;logoColor=white"></a>
-</p>
-
-- **Active and substantial:** Python, C, C++, x86/x64 assembly, and shell scripting.
-- **Representative systems work:** [macos-re](https://github.com/tbarabosch/macos-re) and [1001-injects](https://github.com/tbarabosch/1001-injects) combine Python, C/C++, assembly, and shell in reverse-engineering and code-injection projects.
-- **Language path:** Object Pascal/Delphi → C/C++ → Java → Python and assembly, followed by substantial OCaml work in [yaipl](https://github.com/tbarabosch/yaipl) and the early [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/31).
-- **Exploratory:** Prolog, Haskell, and Lisp, including recent writing on [Prolog for auditable reverse-engineering reasoning](https://tbarabosch.com/prolog-is-dead-long-live-prolog/) and Lisp/Scheme recipes in [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/15).
-- **Specialized public work:** YARA in [apihash_to_yara](https://github.com/tbarabosch/apihash_to_yara).
+- **Active and substantial:** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/tbarabosch/macos-re) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/tbarabosch/1001-injects) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/tbarabosch/macos-re) [![x86/x64 assembly](https://img.shields.io/badge/x86%2Fx64_assembly-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/tbarabosch/1001-injects) [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://github.com/tbarabosch/macos-re)
+- **Representative systems work:** [macos-re](https://github.com/tbarabosch/macos-re) and [1001-injects](https://github.com/tbarabosch/1001-injects) apply these languages to reverse engineering and code-injection research.
+- **Language path:** ![Object Pascal/Delphi](https://img.shields.io/badge/Object_Pascal%2FDelphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) → [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://github.com/tbarabosch/1001-injects) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/tbarabosch/macos-re) → ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) → [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/tbarabosch/macos-re) [![x86/x64 assembly](https://img.shields.io/badge/x86%2Fx64_assembly-0071C5?style=flat-square&logo=intel&logoColor=white)](https://github.com/tbarabosch/1001-injects) → [![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)](https://github.com/tbarabosch/yaipl), evidenced by [yaipl](https://github.com/tbarabosch/yaipl) and the early [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/31).
+- **Exploratory:** [![Prolog](https://img.shields.io/badge/Prolog-74283C?style=flat-square)](https://tbarabosch.com/prolog-is-dead-long-live-prolog/) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) [![Lisp](https://img.shields.io/badge/Lisp-000000?style=flat-square&logo=commonlisp&logoColor=white)](https://github.com/fkie-cad/cwe_checker/pull/15), including recent writing on [Prolog for auditable reverse-engineering reasoning](https://tbarabosch.com/prolog-is-dead-long-live-prolog/) and Lisp/Scheme recipes in [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/15).
+- **Specialized public work:** [![YARA](https://img.shields.io/badge/YARA-394EFF?style=flat-square&logo=virustotal&logoColor=white)](https://github.com/tbarabosch/apihash_to_yara) in [apihash_to_yara](https://github.com/tbarabosch/apihash_to_yara).
 
 ## Selected writing
 
