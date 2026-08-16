@@ -14,7 +14,7 @@ My work spans systems security, reverse engineering, threat intelligence, incide
 - **[tbarabosch/macos-re](https://github.com/tbarabosch/macos-re)** — A maintained collection of Python, C, C++, assembly, and shell tooling for practical macOS reverse engineering.
 - **Research systems** — [Quincy](https://github.com/tbarabosch/quincy), an archived memory-forensics prototype supporting DIMVA 2017 research, and [LuckyCAT](https://github.com/fkie-cad/LuckyCAT), a distributed fuzzing-management framework presented at Black Hat Europe 2018.
 - **[tbarabosch/apihash_to_yara](https://github.com/tbarabosch/apihash_to_yara)** — Author of a tool that generates YARA rules from Windows API hashes for malware detection and hunting.
-- **Selected upstream contributions** — [17 commodity Linux TTPs](https://github.com/facebookincubator/ForgeArmory/commit/aa1b5ed555f19402aff0aa7f6dc92185615e52a0) for ForgeArmory, contributions to Telekom's [malware-analysis artifacts](https://github.com/telekom-security/malware_analysis), and [BAP/Emacs tooling](https://github.com/BinaryAnalysisPlatform/bap-mode).
+- **Selected upstream contributions** — [17 commodity Linux TTPs](https://github.com/facebookincubator/ForgeArmory/commit/aa1b5ed555f19402aff0aa7f6dc92185615e52a0) for Meta's ForgeArmory, contributions to Deutsche Telekom's [malware-analysis artifacts](https://github.com/telekom-security/malware_analysis), and [BAP/Emacs tooling](https://github.com/BinaryAnalysisPlatform/bap-mode).
 
 ## Track record
 
