@@ -10,35 +10,50 @@ My work spans systems security, reverse engineering, threat intelligence, incide
 
 - **[fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)** — Former developer and maintainer of a cross-architecture binary-analysis tool that detects vulnerable patterns in compiled code.
 - **[fkie-cad/FACT_core](https://github.com/fkie-cad/FACT_core)** — Former developer and maintainer of a platform for automated firmware extraction, analysis, and comparison at scale.
-- **[tbarabosch/pocs](https://github.com/tbarabosch/pocs)** — Author and curator of proof-of-concept material for responsibly disclosed FreeBSD, NetBSD, OpenBSD, and VirtualBox issues.
+- **BSD engineering** — Security and reliability work across FreeBSD, NetBSD, and OpenBSD through responsible disclosure, [upstream fixes](https://freshbsd.org/search?q=Thomas+Barabosch&project%5B%5D=freebsd&project%5B%5D=netbsd&project%5B%5D=openbsd&sort=commit_date), [public PoCs](https://github.com/tbarabosch/pocs), and maintenance of FreeBSD's [`misc/xdelta3` port](https://tbarabosch.com/adopting-a-freebsd-port/), whose [adoption and update landed upstream](https://cgit.freebsd.org/ports/commit/?id=4fe2fada927d063c57cf7006de4f0dfacb8913aa).
+- **[tbarabosch/macos-re](https://github.com/tbarabosch/macos-re)** — A maintained collection of Python, C, C++, assembly, and shell tooling for practical macOS reverse engineering.
+- **Research systems** — [Quincy](https://github.com/tbarabosch/quincy), an archived memory-forensics prototype supporting DIMVA 2017 research, and [LuckyCAT](https://github.com/fkie-cad/LuckyCAT), a distributed fuzzing-management framework presented at Black Hat Europe 2018.
 - **[tbarabosch/apihash_to_yara](https://github.com/tbarabosch/apihash_to_yara)** — Author of a tool that generates YARA rules from Windows API hashes for malware detection and hunting.
-- **[telekom-security/malware_analysis](https://github.com/telekom-security/malware_analysis)** — Contributor of analysis scripts, YARA rules, and indicators published alongside threat research.
-- **[facebookincubator/ForgeArmory](https://github.com/facebookincubator/ForgeArmory)** — Contributor who added [17 commodity Linux TTPs](https://github.com/facebookincubator/ForgeArmory/commit/aa1b5ed555f19402aff0aa7f6dc92185615e52a0) to its MITRE ATT&amp;CK-aligned catalogue for defensive validation.
+- **Selected upstream contributions** — [17 commodity Linux TTPs](https://github.com/facebookincubator/ForgeArmory/commit/aa1b5ed555f19402aff0aa7f6dc92185615e52a0) for ForgeArmory, contributions to Telekom's [malware-analysis artifacts](https://github.com/telekom-security/malware_analysis), and [BAP/Emacs tooling](https://github.com/BinaryAnalysisPlatform/bap-mode).
 
 ## Track record
 
 - **15+ years** across security research, engineering, threat intelligence, detection, and incident response.
 - **[PhD in Computer Science](https://hdl.handle.net/20.500.11811/7660)** on formalizing and detecting host-based code injection attacks in the context of malware.
 - **Systems security research:** [five disclosed CVEs](https://net.cs.uni-bonn.de/wg/cs/staff/alumni/thomas-barabosch/) and credit across [58 upstream BSD commits](https://freshbsd.org/search?q=Thomas+Barabosch&project%5B%5D=freebsd&project%5B%5D=netbsd&project%5B%5D=openbsd&sort=commit_date).
+- **Research communication:** [Published research and presentations](https://net.cs.uni-bonn.de/wg/cs/staff/alumni/thomas-barabosch/) span binary analysis, fuzzing, firmware, kernel security, malware, and botnet operations; presentation venues include Black Hat USA and Europe, FOSDEM, Pass the SALT, Future Security, Dagstuhl, and Botconf.
 - **Community service:** [Botconf programme committee](https://www.botconf.eu/call-for-proposals/) member since 2017.
+
+## Languages and systems
+
+<p align="center">
+  <a href="https://github.com/tbarabosch/macos-re"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"></a>
+  <a href="https://github.com/tbarabosch/1001-injects"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black"></a>
+  <a href="https://github.com/tbarabosch/macos-re"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"></a>
+  <a href="https://github.com/tbarabosch/1001-injects"><img alt="x86/x64 assembly" src="https://img.shields.io/badge/x86%2Fx64_assembly-0071C5?style=flat-square&amp;logo=intel&amp;logoColor=white"></a>
+  <a href="https://github.com/tbarabosch/macos-re"><img alt="Shell" src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white"></a>
+  <img alt="Delphi" src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&amp;logo=delphi&amp;logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
+  <a href="https://github.com/tbarabosch/yaipl"><img alt="OCaml" src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&amp;logo=ocaml&amp;logoColor=white"></a>
+  <a href="https://tbarabosch.com/prolog-is-dead-long-live-prolog/"><img alt="Prolog" src="https://img.shields.io/badge/Prolog-74283C?style=flat-square"></a>
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&amp;logo=haskell&amp;logoColor=white">
+  <a href="https://github.com/fkie-cad/cwe_checker/pull/15"><img alt="Lisp" src="https://img.shields.io/badge/Lisp-000000?style=flat-square&amp;logo=commonlisp&amp;logoColor=white"></a>
+  <a href="https://github.com/tbarabosch/apihash_to_yara"><img alt="YARA" src="https://img.shields.io/badge/YARA-394EFF?style=flat-square&amp;logo=virustotal&amp;logoColor=white"></a>
+</p>
+
+- **Active and substantial:** Python, C, C++, x86/x64 assembly, and shell scripting.
+- **Representative systems work:** [macos-re](https://github.com/tbarabosch/macos-re) and [1001-injects](https://github.com/tbarabosch/1001-injects) combine Python, C/C++, assembly, and shell in reverse-engineering and code-injection projects.
+- **Language path:** Object Pascal/Delphi → C/C++ → Java → Python and assembly, followed by substantial OCaml work in [yaipl](https://github.com/tbarabosch/yaipl) and the early [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/31).
+- **Exploratory:** Prolog, Haskell, and Lisp, including recent writing on [Prolog for auditable reverse-engineering reasoning](https://tbarabosch.com/prolog-is-dead-long-live-prolog/) and Lisp/Scheme recipes in [cwe_checker](https://github.com/fkie-cad/cwe_checker/pull/15).
+- **Specialized public work:** YARA in [apihash_to_yara](https://github.com/tbarabosch/apihash_to_yara).
 
 ## Selected writing
 
+- [**Adopting a FreeBSD port**](https://tbarabosch.com/adopting-a-freebsd-port/) — maintaining the metadata, checksums, dependencies, patches, and packaging decisions behind `pkg install`.
+- [**One BSD’s fix is another BSD’s bug**](https://tbarabosch.com/one-bsds-fix-is-another-bsds-bug/) — finding security fixes that may not have propagated across related kernels.
 - [**Trap fuzzing: random instructions, real bugs**](https://tbarabosch.com/trap-fuzzing/) — why random native instructions expose privileged failure paths.
 - [**Detect API hashing with YARA**](https://tbarabosch.com/apihash-to-yara/) — turning Windows API hashes into practical malware hunting rules.
 - [**From Problem to Operations**](https://tbarabosch.com/from-problem-to-operations/) — an engineering workflow for security tooling that lasts.
 - [**The Agentic Performance Ladder**](https://tbarabosch.com/the-agentic-performance-ladder/) — one reverse-engineering workload across Python, native C++, and Metal.
 
 [Read all articles →](https://tbarabosch.com/)
-
-## Public repository languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tbarabosch&amp;theme=github_dark&amp;border_color=00000000&amp;bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tbarabosch&amp;theme=default&amp;border_color=00000000&amp;bg_color=00000000">
-    <img height="165" alt="Languages in Thomas Barabosch's public GitHub repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tbarabosch&amp;theme=default&amp;border_color=00000000&amp;bg_color=00000000">
-  </picture>
-</p>
-
-_Based on public repositories owned by this account; organization-owned contributions are not included._
