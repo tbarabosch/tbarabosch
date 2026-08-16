@@ -21,7 +21,7 @@ My work spans systems security, reverse engineering, threat intelligence, incide
 - **15+ years** across security research, engineering, threat intelligence, detection, and incident response.
 - **[PhD in Computer Science](https://hdl.handle.net/20.500.11811/7660)** on formalizing and detecting host-based code injection attacks in the context of malware.
 - **Systems security research:** [five disclosed CVEs](https://net.cs.uni-bonn.de/wg/cs/staff/alumni/thomas-barabosch/) and credit across [58 upstream BSD commits](https://freshbsd.org/search?q=Thomas+Barabosch&project%5B%5D=freebsd&project%5B%5D=netbsd&project%5B%5D=openbsd&sort=commit_date).
-- **Research communication:** [Published research and presentations](https://net.cs.uni-bonn.de/wg/cs/staff/alumni/thomas-barabosch/) span binary analysis, fuzzing, firmware, kernel security, malware, and botnet operations; presentation venues include Black Hat USA and Europe, FOSDEM, Pass the SALT, Future Security, Dagstuhl, and Botconf.
+- **Research communication:** [Published research and presentations](https://net.cs.uni-bonn.de/wg/cs/staff/alumni/thomas-barabosch/) span binary analysis, fuzzing, firmware, kernel security, malware, and botnet operations; presentation venues include Black Hat USA and Europe, FOSDEM, Pass the SALT and Botconf amongst others.
 - **Community service:** [Botconf programme committee](https://www.botconf.eu/call-for-proposals/) member since 2017.
 
 ## Languages and systems
